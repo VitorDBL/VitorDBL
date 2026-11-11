@@ -8,8 +8,10 @@ No trabalho construo pipelines ETL em AWS, faço análises para a área regulat�
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| [O Mercado Não Mente](https://github.com/VitorDBL/o-mercado-nao-mente) | Como a bolsa brasileira reagiu à pandemia, à Selic e às eleições de 2022 e 2026. [Relatório](https://vitordbl.github.io/o-mercado-nao-mente/) atualizado toda semana | Python, Pandas, GitHub Actions |
 | [PDPD](https://github.com/VitorDBL/PDPD) | Iniciação científica: chatbot sobre avaliações de hotéis com grafos de conhecimento | Python, Neo4j, OpenAI API |
 | [gerador-escala-axis](https://github.com/VitorDBL/gerador-escala-axis) | Escala de plantões automática que substituiu a montagem manual na atlética | Python, Streamlit |
+| [Ascensão](https://github.com/VitorDBL/ascensao) | App pessoal de treino e alimentação com coach por voz | JavaScript, PWA, Gemini API |
 | [Zela](https://github.com/VitorDBL/Zela) | App de monitoramento ambiental urbano, feito em grupo na UFABC | Node.js, Express, PWA |
 | [vitordbl.github.io](https://github.com/VitorDBL/vitordbl.github.io) | Meu portfólio | HTML, CSS |
 
